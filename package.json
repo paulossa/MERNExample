@@ -1,0 +1,25 @@
+{
+  "name": "mernexample",
+  "version": "1.0.0",
+  "description": "Just completing a youtube tutorial ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulossa/MERNExample.git"
+  },
+  "author": "Paulo Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulossa/MERNExample/issues"
+  },
+  "homepage": "https://github.com/paulossa/MERNExample#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.0.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.17"
+  }
+}
